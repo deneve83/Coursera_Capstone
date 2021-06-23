@@ -1,6 +1,0 @@
-1. git init
-2. git add README.md  
-3. git add GeeksForGeeks.ipynb
-4. git commit -m "notebook first commit" 
-5. git remote add origin https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/0f626e2e-f212-467b-a5fa-9377a101624e/view?access_token=d2106dc676579820762ca13cbeb2eb9b8e576dc12be4df10f14ec5187294abb5 
-6. git push -u origin master 
